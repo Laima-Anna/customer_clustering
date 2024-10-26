@@ -11,6 +11,8 @@ The business goals of the project:
 
 
 ## Dataset
+[Dataset available here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
 Dataset consists of:
 - 200 rows of unique customer data
 - Columns for age, gender, annual income and spending score
