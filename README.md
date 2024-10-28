@@ -11,7 +11,7 @@ The business goals of the project:
 
 
 ## Dataset
-Dataset was aquired from kaggle.com [Available here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+Dataset was acquired from kaggle.com [Available here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 Dataset consists of:
 - 200 rows of unique customer data
